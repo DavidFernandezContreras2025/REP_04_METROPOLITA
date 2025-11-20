@@ -4224,8 +4224,4 @@
 			.grid-style > :nth-child(1n + 1),
 			.grid-style > :nth-child(1n) {
 				width: calc(100% + 2rem);
-			}
-#banner b {
-    color: white !important;
-    font-weight: 900 !important;
-}
+#three, #four, #footer section {display:none}.
